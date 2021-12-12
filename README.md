@@ -24,6 +24,8 @@ https://expo.dev/@nipali/QuizApp
 - [ ] Multi-language Support
 - [ ] Category picker
 - [ ] Question amount picker
+- [ ] Quiz type picker
+- [ ] Leaderboard
 
 ## Known bugs
 
